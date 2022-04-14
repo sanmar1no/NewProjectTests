@@ -1,3 +1,3 @@
 # NewProjectTests
 Second Tests
-ok
+ok 3
